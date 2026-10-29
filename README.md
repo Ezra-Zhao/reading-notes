@@ -17,3 +17,4 @@ source material for articles and animated short videos.
 - `nlp-textbook/` —— 中文《自然语言处理》教材技术读书笔记
 - `nasdaq-guide/` —— Nasdaq 上市指南解读（企业上市路线研究）
 - `market-wizards/` —— 交易员故事线：《Market Wizards》系列及经典交易员人物拆解（只讲故事、方法与纪律，不喊单）
+- `naval-almanack/` —— 《纳瓦尔宝典》（Eric Jorgenson 编，Naval Ravikant）读书笔记，拆书主队列续接本
