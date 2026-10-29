@@ -5,6 +5,8 @@
 Daily book breakdowns: Chinese reading notes from books I'm reading,
 source material for articles and animated short videos.
 
+
+支持与更多：[GitHub Sponsors](https://github.com/sponsors/Ezra-Zhao) · [Gumroad — 我在用的模板与工作簿](https://ezraflow28.gumroad.com) · [Ko-fi](https://ko-fi.com/ezra777zhao)
 ## 规则
 
 - 全部用自己的话重写，不搬运原文、不大段引用；
