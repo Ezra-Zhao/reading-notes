@@ -21,3 +21,5 @@ source material for articles and animated short videos.
 - `market-wizards/` —— 交易员故事线：《Market Wizards》系列及经典交易员人物拆解（只讲故事、方法与纪律，不喊单）
 - `naval-almanack/` —— 《纳瓦尔宝典》（Eric Jorgenson 编，Naval Ravikant）读书笔记，拆书主队列续接本
 - `wealth-of-nations/` —— 《国富论》（Adam Smith，1776，Project Gutenberg 公版）读书笔记，拆书主队列第 2 本
+
+📣 Telegram 频道：https://t.me/EzraZhao777（各平台的更新都同步到这里）
