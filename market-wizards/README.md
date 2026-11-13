@@ -12,9 +12,9 @@
 |---|---|---|---|
 | 01 | [Kullamägi——胜率三成做到一亿美元](01-Kullamägi-胜率三成做到一亿美元.md) | Kristjan Kullamägi（Qullamaggie），《Market Wizards: The Next Generation》（Schwager & Coyle，Harriman House，2026）第一章 | ✅ |
 | 02 | [Livermore——赚过一亿美元的人输在哪里](02-Livermore-赚过一亿美元的人输在哪里.md) | Jesse Livermore（《股票作手回忆录》原型；1907 年值 300 万、1929 年值 1 亿、1934 年第三次正式破产；验算脚本 02-livermore-verify.py 六项断言通过） | ✅ |
+| 03 | [Seykota——把纪律写成系统的人](03-Seykota-把纪律写成系统的人.md) | Ed Seykota（《Market Wizards》初代；MIT 1969、1970 年前后最早的商业化计算机期货系统之一、客户账户 1972 年 5,000 美元至 1988 年中约 1,500 万美元即 3,000 倍；验算脚本 03-seykota-verify.py 六项断言通过，OVH Llama 审十二条十一对一异议已按意见降级引语归属） | ✅ |
 
 ## 排队中
 
-- Ed Seykota（《Market Wizards》初代，海龟交易的思想源头之一）
 - Richard Dennis 与海龟交易员实验
 - 中国游资组：张盟主、陈小群等（与海外组轮着写）
