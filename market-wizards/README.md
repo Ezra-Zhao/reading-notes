@@ -11,10 +11,10 @@
 | # | 笔记 | 主角 | 状态 |
 |---|---|---|---|
 | 01 | [Kullamägi——胜率三成做到一亿美元](01-Kullamägi-胜率三成做到一亿美元.md) | Kristjan Kullamägi（Qullamaggie），《Market Wizards: The Next Generation》（Schwager & Coyle，Harriman House，2026）第一章 | ✅ |
+| 02 | [Livermore——赚过一亿美元的人输在哪里](02-Livermore-赚过一亿美元的人输在哪里.md) | Jesse Livermore（《股票作手回忆录》原型；1907 年值 300 万、1929 年值 1 亿、1934 年第三次正式破产；验算脚本 02-livermore-verify.py 六项断言通过） | ✅ |
 
 ## 排队中
 
-- Jesse Livermore（《股票作手回忆录》原型，投机之王的四次破产）
 - Ed Seykota（《Market Wizards》初代，海龟交易的思想源头之一）
 - Richard Dennis 与海龟交易员实验
 - 中国游资组：张盟主、陈小群等（与海外组轮着写）
