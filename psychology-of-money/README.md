@@ -24,3 +24,4 @@ Morgan Housel 著（Harriman House 2020），中译本李青宗译（民主与�
 16. 每个人的情况不同——先认清自己玩的是什么游戏（第 16 章；验算脚本 16-different-games-verify.py 九项断言以 python3 直跑全过；跨模型审本轮未取得完整结论、篇内已如实标注待补）
 17. 悲观主义的诱惑——坏消息为什么听起来更聪明（第 17 章；验算脚本 17-pessimism-verify.py 十一项断言以 python3 直跑全过；跨模型审本轮未取得完整结论、篇内已如实标注待补）
 18. 当你相信一切的时候——故事比数据更有力量（第 18 章；验算脚本 18-believe-anything-verify.py 十一项断言以 python3.12 直跑全过；跨模型审 Pollinations 503 未取得完整结论、篇内已如实标注待补）
+19. 总结——没有适合所有人的理财答案（第 19 章；验算脚本 19-summary-verify.py 九项断言以 python3 直跑全过；跨模型审本轮 OVH 429、Pollinations 402 均未取得完整结论、篇内已如实标注待补）
